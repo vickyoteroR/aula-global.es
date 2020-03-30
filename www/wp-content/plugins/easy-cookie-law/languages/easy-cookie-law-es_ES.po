@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Cookie Law\n"
+"POT-Creation-Date: 2019-10-15 18:43+0200\n"
+"PO-Revision-Date: 2019-10-15 18:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: easy-cookie-law.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class/easy-cookie-law.php:338
+msgid "Saved!"
+msgstr "¡Guardado!"
+
+#: class/easy-cookie-law.php:357
+msgid "Easy Cookie Law Menu Options"
+msgstr "Menú de opciones de Easy Cookie Law"
+
+#: class/easy-cookie-law.php:365
+msgid "Content"
+msgstr "Contenido"
+
+#: class/easy-cookie-law.php:368
+msgid "Message"
+msgstr "Mensaje"
+
+#: class/easy-cookie-law.php:370
+msgid ""
+"People will see this notice only if the use of cookies has not been accepted "
+"yet"
+msgstr ""
+"La gente verá este aviso sólo si el uso de cookies no ha sido aceptado "
+"todavía"
+
+#: class/easy-cookie-law.php:373
+msgid "More Info URL"
+msgstr "Más Info URL"
+
+#: class/easy-cookie-law.php:377
+msgid "More Info text (text showed in the link)"
+msgstr "Más información texto (texto mostrado en el enlace)"
+
+#: class/easy-cookie-law.php:381
+msgid "Target of the link"
+msgstr "Objetivo del enlace"
+
+#: class/easy-cookie-law.php:383
+msgid "New tab or windows"
+msgstr "Nueva pestaña o ventanas"
+
+#: class/easy-cookie-law.php:384
+msgid "Same window"
+msgstr "Misma ventana"
+
+#: class/easy-cookie-law.php:388
+msgid "Text for the link to accept the use of cookies"
+msgstr "Texto del enlace para aceptar el uso de cookies"
+
+#: class/easy-cookie-law.php:392
+msgid "Text for the link to decline the use of cookies"
+msgstr "Texto del enlace para denegar el uso de cookies"
+
+#: class/easy-cookie-law.php:398
+msgid "Accept the use of cookies if the user scrolls (more than 249px)"
+msgstr "Aceptar el uso de cookies si el usuario hace scroll (más de 249px)"
+
+#: class/easy-cookie-law.php:405
+msgid "Styles"
+msgstr "Estilos"
+
+#: class/easy-cookie-law.php:408
+msgid "Let me use my own CSS"
+msgstr "Permítanme usar mi propio CSS"
+
+#: class/easy-cookie-law.php:410
+msgid ""
+"The plugin will not print any styles. Check this if you want to use your "
+"custom CSS written in any other stylesheet or inline."
+msgstr ""
+"El plugin no imprimirá ningún estilo. Chequea esto si desea utilizar su CSS "
+"personalizado escrito en cualquier otra hoja de estilos o en línea."
+
+#: class/easy-cookie-law.php:414
+msgid "Position of the notice"
+msgstr "Posición del aviso"
+
+#: class/easy-cookie-law.php:416
+msgid "Top"
+msgstr "Arriba"
+
+#: class/easy-cookie-law.php:417
+msgid "Bottom"
+msgstr "Abajo"
+
+#: class/easy-cookie-law.php:422
+msgid "Background color of the notice"
+msgstr "Color de fondo del aviso"
+
+#: class/easy-cookie-law.php:428
+msgid "Text color of the notice"
+msgstr "Color del texto del aviso"
+
+#: class/easy-cookie-law.php:434
+msgid "Links color of the notice"
+msgstr "Color de los links del aviso"
+
+#: class/easy-cookie-law.php:439
+msgid ""
+"Show the vertical bar separator \"|\" between the information and close links"
+msgstr ""
+"Mostrar el separador de barras vertical \"|\" entre el enlace de información "
+"y el de cierre"
+
+#: class/easy-cookie-law.php:442
+msgid "Put your custom CCS here. It will be inlined"
+msgstr "Pon aquí tu CSS. Éste se pondrá inline"
+
+#: class/easy-cookie-law.php:454
+msgid "Roles"
+msgstr "Roles"
+
+#: class/easy-cookie-law.php:459
+msgid "Remove notice and tracking code for admins"
+msgstr "Eliminar el aviso y el código de seguimiento para los administradores"
+
+#: class/easy-cookie-law.php:465
+msgid "Remove notice and tracking code for editors"
+msgstr "Eliminar el aviso y el código de seguimiento para los editores"
+
+#: class/easy-cookie-law.php:471
+msgid "Remove notice and tracking code for registered users"
+msgstr ""
+"Eliminar el aviso y el código de seguimiento para los usuarios registrados"
+
+#: class/easy-cookie-law.php:479
+msgid "Optional: Google Tag Manager"
+msgstr "Opcional: Google Tag Manager"
+
+#: class/easy-cookie-law.php:482
+msgid ""
+"If you use Google Tag Manager, you can put the code here below and this "
+"plugin will take care of it, loading it only after the user accepts the use "
+"of cookies."
+msgstr ""
+"Si usas Google Tag Manager, puedes poner el código aquí abajo y este plugin "
+"se encargará de ello, cargándolo solo después de que el usuario acepte el "
+"uso de cookies."
+
+#: class/easy-cookie-law.php:487
+msgid "Code after the opening of the &lt;head&gt; tag:"
+msgstr "Código después de la apertura de la etiqueta  &lt;head&gt; :"
+
+#: class/easy-cookie-law.php:489
+msgid ""
+"Introduce the code withouth &lt;script&gt;&lt;/script&gt; tags. The plugin "
+"will block the execution of the code until cookies are accepted"
+msgstr ""
+"Introduzca el código sin las etiquetas &lt;script&gt;&lt;/script&gt;. El "
+"plugin bloqueará la ejecución del código hasta que se acepten las cookies"
+
+#: class/easy-cookie-law.php:492
+msgid "Code noscript after the opening of the &lt;body&gt; tag:"
+msgstr "Código noscript después de la apertura de la etiqueta &lt;body&gt; :"
+
+#: class/easy-cookie-law.php:495
+msgid ""
+"This requires a tiny manual action from your side: you need to put the "
+"following PHP lines on your theme:"
+msgstr ""
+"Esto requiere una pequeña acción manual de su lado: es necesario poner las "
+"siguientes líneas de PHP en su tema:"
+
+#: class/easy-cookie-law.php:497
+msgid ""
+"Normally, you must put this only in your 'header.php' file, directly after "
+"the opening of the &lt;body&gt;; tag, but this may vary depending on your "
+"theme."
+msgstr ""
+"Normalmente, debe poner esto sólo en el archivo 'header. php‘, directamente "
+"después de la apertura de la etiqueta &lt;body&gt;, pero esto puede variar "
+"dependiendo de su tema."
+
+#: class/easy-cookie-law.php:499
+#, php-format
+msgid ""
+"If you need help, contact the author of the plugin at <a href=\"%s\" target="
+"\"_blank\">asanchez.dev</a> or ask in the <a href=\"%s\" target=\"_blank"
+"\">support forum</a>."
+msgstr ""
+"Si necesita ayuda, póngase en contacto con el autor del plugin en <a href="
+"\"%s\" target=\"_blank\">antsanchez.dev</a> o pregunte en el <a href=\"%s\" "
+"target=\"_blank\">support forum</a>."
+
+#: class/easy-cookie-law.php:505
+msgid "Let me manually print the GMT code for the header where I want"
+msgstr "Permíteme imprimir manualmente el código GMT del hacer donde quiera"
+
+#: class/easy-cookie-law.php:508
+msgid ""
+"Check this if you want to modify your theme to print the GMT header code "
+"where you want. For this, you have to put this function where you want to "
+"print the code:"
+msgstr ""
+"Activa esto si desea modificar el tema para imprimir el código del GMT para "
+"el header donde desee. Para ello, tienes que poner esta función donde "
+"quieras imprimir el código:"
+
+#: class/easy-cookie-law.php:510
+msgid ""
+"This function will print he GMT code for the header in the position you "
+"want, instead of using the wp_head action hook. Normally you should use this "
+"if you want to print the code on the top of your &lt;head&gt;; tag, as "
+"Google recommends."
+msgstr ""
+"Esta función imprimirá el código GMT para el encabezado en la posición que "
+"desee, en lugar de utilizar el gancho de acción wp_head. Normalmente "
+"deberías usar esto si quieres imprimir el código en la parte superior de tu "
+"etiqueta &lt;head&gt; como recomienda Google."
+
+#: class/easy-cookie-law.php:521
+msgid "Update"
+msgstr "Actualizar"
+
+#: easy-cookie-law.php:69
+msgid "Settings"
+msgstr "Ajustes"
+
+#: easy-cookie-law.php:83
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página."
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Cookie Law"
+msgstr "Easy Cookie Law"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://asanchez.dev"
+msgstr "https://asanchez.dev"
+
+#. Description of the plugin/theme
+msgid "Minimal code to help your website respect the cookie law"
+msgstr "Código mínimo para ayudar a su sitio web a respetar la ley de cookies"
+
+#. Author of the plugin/theme
+msgid "antsanchez"
+msgstr "antsanchez"

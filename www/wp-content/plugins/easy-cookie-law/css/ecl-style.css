@@ -1,0 +1,69 @@
+.ecl_options .form-box{
+    padding-top:1%;
+    padding-bottom: 1%;
+    overflow: hidden;
+    clear:both;
+}
+
+.ecl_options h1{
+    padding:1em;
+    background: rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.ecl_options label{
+    font-weight: 800;
+    padding-bottom: 5px;
+}
+
+#ecl_saved{
+    background-color: #449d44;
+    color: #fff;
+    padding: 1em;
+}
+
+.ecl_options h2 {
+    padding: 0em 0.7em 0.7em 0.7em;
+    border-bottom: 1px solid #eee;
+}
+
+@media(max-width:768px){
+    .ecl_options .form-box label,
+    .ecl_options .form-box input[type="text"],
+    .ecl_options .form-box input[type="url"],
+    .ecl_options .form-box input[type="submit"],
+    .ecl_options .form-box textarea{
+        display: block;
+        width:98%;
+        margin:1%;
+    }
+}
+
+@media(min-width:768px){
+
+    .ecl_options .form-box label, .form-box-check label{
+        display: block;
+        clear: both;
+    }
+
+    .ecl_options .form-box input[type="text"],
+    .ecl_options .form-box input[type="url"],
+    .ecl_options .form-box input[type="submit"],
+    .ecl_options .form-box textarea{
+        display: block;
+        clear: both;
+        width: 98%;
+    }
+}
+
+@media(min-width:1024px){
+    .ecl_column{
+        float: left;
+        width: 49%;
+        margin: 0.5%;
+    }
+}
+
+.ecl_options .anders{
+    background-color: lightgoldenrodyellow;
+}
