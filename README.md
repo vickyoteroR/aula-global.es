@@ -1,1 +1,1 @@
-# aula-global.es
+Copia de seguridad http://aula-global.es
